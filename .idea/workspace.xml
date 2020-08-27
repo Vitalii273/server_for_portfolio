@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fee2b5ea-c676-4b98-ab87-f97436d0e7f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gas7V0cqCIlJddtX3glPFLEXUI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fee2b5ea-c676-4b98-ab87-f97436d0e7f8" name="Default Changelist" comment="" />
+      <created>1598363871828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598363871828</updated>
+      <workItem from="1598363872972" duration="8688000" />
+      <workItem from="1598401713960" duration="2124000" />
+      <workItem from="1598553342205" duration="1923000" />
+      <workItem from="1598564485171" duration="765000" />
+      <workItem from="1598565289975" duration="31000" />
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1598564625927</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598564625927</updated>
+    </task>
+    <task id="LOCAL-00002" summary="second">
+      <created>1598564692489</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598564692489</updated>
+    </task>
+    <task id="LOCAL-00003" summary="FIX">
+      <created>1598564832487</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598564832487</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="first" />
+    <MESSAGE value="second" />
+    <MESSAGE value="FIX" />
+    <option name="LAST_COMMIT_MESSAGE" value="FIX" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="125" y="23" key="CommitChangelistDialog2" timestamp="1598564832304">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="125" y="23" key="CommitChangelistDialog2/0.23.1280.735@0.23.1280.735" timestamp="1598564832304" />
+    <state x="445" y="286" key="Github.ShareDialog" timestamp="1598564614380">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="445" y="286" key="Github.ShareDialog/0.23.1280.735@0.23.1280.735" timestamp="1598564614380" />
+    <state x="345" y="53" key="Github.UntrackedFilesDialog" timestamp="1598401793326">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="345" y="53" key="Github.UntrackedFilesDialog/0.23.1280.735@0.23.1280.735" timestamp="1598401793326" />
+    <state x="16" y="23" key="SettingsEditor" timestamp="1598565322079">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="16" y="23" key="SettingsEditor/0.23.1280.735@0.23.1280.735" timestamp="1598565322079" />
+    <state x="117" y="107" key="Vcs.Push.Dialog.v2" timestamp="1598564835689">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="117" y="107" key="Vcs.Push.Dialog.v2/0.23.1280.735@0.23.1280.735" timestamp="1598564835689" />
+  </component>
+</project>
